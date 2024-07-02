@@ -1,0 +1,29 @@
+{
+  "users":
+  [
+    {
+      "DisplayName": "Sam Parker",
+      "EmailAddress": "sam123@gmail.com",
+      "UserName": "Sam_P",
+      "Password": "12345678"
+    },
+    {
+      "DisplayName": "Sarah Hudson",
+      "EmailAddress": "shudson@gmail.com",
+      "UserName": "Sarah_H",
+      "Password": "sarah12345"
+    },
+    {
+      "DisplayName": "Admin",
+      "EmailAddress": "admin@gmail.com",
+      "UserName": "Admin",
+      "Password": "Admin"
+    },
+    {
+      "DisplayName": "John Doe",
+      "EmailAddress": "jdoe@dcmail.ca",
+      "UserName": "j_doe",
+      "Password": "john123"
+    }
+  ]
+}
